@@ -1,10 +1,10 @@
-*** Ejercicios Prácticos en VHDL - UNL
+# Ejercicios Prácticos en VHDL - UNL #
 
-📌 Descripción
+## 📌 Descripción ##
 
 Este repositorio contiene una serie de ejercicios prácticos en VHDL realizados como parte del curso en la Universidad Nacional de Loja (UNL). Los ejercicios están diseñados para comprender y aplicar diferentes estilos de modelado en VHDL, incluyendo estructural, flujo de datos y comportamiento.
 
-📂 Contenido del Repositorio
+## 📂 Contenido del Repositorio ##
 
 🔹 Ejercicios básicos - Implementación de entidades y puertos en VHDL.
 
@@ -16,7 +16,7 @@ Este repositorio contiene una serie de ejercicios prácticos en VHDL realizados 
 
 🔹 Modelado estructural - Ejemplos de interconexión de componentes mediante port map.
 
-🛠 Ejercicios Destacados
+## 🛠 Ejercicios Destacados ##
 
 ✅ DEMO 01: Tabla de Verdad en VHDL
 
@@ -75,7 +75,7 @@ end e_funcional;
 
 📌 Cómo Usar estos Ejercicios
 
-📂 Abrir los archivos .vhdl en un simulador de VHDL como ModelSim o GHDL.
+## 📂 Abrir los archivos .vhdl en un simulador de VHDL como ModelSim o GHDL. ##
 
 🛠 Compilar los módulos y verificar la correcta implementación de las señales.
 
